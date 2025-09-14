@@ -62,13 +62,13 @@ The **target variable** is `loan_status`, which indicates the current status of 
 
 ---
 
-## ⚖️ Tradeoff Challenges
+##  Tradeoff Challenges
 - **Minimizing False Positives** → Prevents disbursing loans to risky applicants, reducing NPAs  
 - **Precision vs Recall** → Balanced to identify true defaulters while maintaining approval rates  
 
 ---
 
-## ✨ Business Impact
+## Business Impact
 This project provides a **data-driven underwriting system** that helps LoanTap:  
 ✔ Reduce defaults and non-performing assets (NPAs)  
 ✔ Improve lending efficiency  
