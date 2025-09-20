@@ -1,4 +1,4 @@
-# LoanTap Creditworthiness Analysis
+# LoanTap Creditworthiness Analysis - Case Study 
 
 ## Project Overview
 This project builds an **underwriting layer** for LoanTap, an online platform offering customized loan products.  
